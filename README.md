@@ -1,4 +1,4 @@
-# LinkedBikes---Semantic-Web-Bike-Station-Project
+# LinkedBikes---Smart Bicycle Sharing System
 This project was developed by Master Students (Thet Kyi Htun,Htet Myet Aung,Khin Nadi Kyaw,Nan Hsu Wai) from University Of Computer Studies,Yangon (UCSY) in september,2026.
 
 An end-to-end Semantic Web application that collects bike station data for multiple cities/countries, converts it into RDF triples, loads it into a triplestore, and exposes it through a web application that queries the triplestore using SPARQL.
